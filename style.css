@@ -704,11 +704,11 @@ ul li a:hover::after {
     
     @media (max-width: 550px) {
         .new_game {
-            font-size: 15px;
+            font-size: 12px;
             width: 70%;
         }
         .start button {
-            width: 70%;
+       width: 70%;
             font-size: 15px;
         }
         .start_header {
