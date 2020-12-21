@@ -666,7 +666,7 @@ ul li a:hover::after {
     
     .new_game {
         position: relative;
-        width: 50%;
+        width: 70%;
         height: 6vh;
         color: white;
         text-transform: uppercase;
