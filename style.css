@@ -705,6 +705,7 @@ ul li a:hover::after {
     @media (max-width: 550px) {
         .new_game {
             font-size: 15px;
+            width: 70%;
         }
         .start button {
             width: 70%;
